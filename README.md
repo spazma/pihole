@@ -29,9 +29,7 @@ Pi-hole pobierze listę i zacznie blokować domeny automatycznie.
 
 - Lista jest w wersji stabilnej (safe).
 - Nie blokuje domen potrzebnych do aktualizacji systemów.
-- Można ją rozszerzać o kolejne urządzenia i usługi.
-- Repozytorium może zawierać wiele plików .txt, każdy z własnym RAW linkiem.
 
 ## Licencja
 
-jaka licencja? na zabijanie reklam? tak
+jaka licencja? na zabijanie reklam? tak 💀
