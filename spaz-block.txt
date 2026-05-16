@@ -9,17 +9,17 @@
 # -------------------------
 # TCL Smart TV Telemetry
 # -------------------------
-tclclouds.com
-tclclouds.net
-tclclouds.tv
-tcl.com
-tcluser.com
-tclsmarttv.com
-tclapp.com
-tclappstore.com
-tclchannel.com
-tclupdate.com
-tclota.com
+# tclclouds.com
+# tclclouds.net
+# tclclouds.tv
+# tcl.com
+# tcluser.com
+# tclsmarttv.com
+# tclapp.com
+# tclappstore.com
+# tclchannel.com
+# tclupdate.com
+# tclota.com
 
 # -------------------------
 # Android TV / Google TV Telemetry
