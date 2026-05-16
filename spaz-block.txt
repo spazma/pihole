@@ -65,7 +65,7 @@ secure.netflix.com
 metrics.netflix.com
 
 # -------------------------
-# Samsung S20 (Android tracking)
+# Samsung (Android tracking)
 # -------------------------
 log-ingestion.samsungacr.com
 samsungacr.com
