@@ -1,7 +1,7 @@
 # ==========================================
 # Pi-hole Custom Blocklist
 # Author: Spazma
-# Devices: TCL Smart TV, Samsung S20, Steam Deck, Raspberry Pi 5
+# Devices: TCL Smart TV, Samsung, Steam Deck, Raspberry Pi 5
 # Purpose: Block telemetry, ads, tracking, SmartTV analytics
 # Version: Stable (Safe)
 # ==========================================
