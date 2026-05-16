@@ -1,0 +1,115 @@
+# ==========================================
+# Pi-hole Custom Blocklist
+# Author: Spazma
+# Devices: TCL Smart TV, Samsung S20, Steam Deck, Raspberry Pi 5
+# Purpose: Block telemetry, ads, tracking, SmartTV analytics
+# Version: Stable (Safe)
+# ==========================================
+
+# -------------------------
+# TCL Smart TV Telemetry
+# -------------------------
+tclclouds.com
+tclclouds.net
+tclclouds.tv
+tcl.com
+tcluser.com
+tclsmarttv.com
+tclapp.com
+tclappstore.com
+tclchannel.com
+tclupdate.com
+tclota.com
+
+# -------------------------
+# Android TV / Google TV Telemetry
+# -------------------------
+androidtvwatsonfe-pa.googleapis.com
+androidtvwatsonfe.googleapis.com
+safebrowsing.googleapis.com
+safebrowsing.google.com
+
+# Google Ads / DoubleClick
+pagead2.googlesyndication.com
+googleads.g.doubleclick.net
+ad.doubleclick.net
+securepubads.g.doubleclick.net
+
+# -------------------------
+# YouTube (tracking only)
+# -------------------------
+s.youtube.com
+youtubei.googleapis.com
+yt3.ggpht.com
+
+# -------------------------
+# Player.pl / TVP VOD Ads
+# -------------------------
+gemius.pl
+hit.gemius.pl
+go.gemius.pl
+adform.net
+ads.adform.net
+imasdk.googleapis.com
+
+adserver.tvp.pl
+adserver2.tvp.pl
+adserver3.tvp.pl
+analytics.tvp.pl
+
+# -------------------------
+# Netflix (safe telemetry block)
+# -------------------------
+ichnaea.netflix.com
+secure.netflix.com
+metrics.netflix.com
+
+# -------------------------
+# Samsung S20 (Android tracking)
+# -------------------------
+log-ingestion.samsungacr.com
+samsungacr.com
+samsungads.com
+config.samsungads.com
+ads.samsung.com
+analytics-api.samsunghealthcn.com
+gpm.samsungqbe.com
+
+# -------------------------
+# Steam Deck (SteamOS telemetry)
+# -------------------------
+api.steampowered.com
+store.steampowered.com
+steamcommunity-a.akamaihd.net
+steamcommunity.com
+steamcdn-a.akamaihd.net
+steamcdn.cloudflare.steamstatic.com
+steamstat.us
+
+# -------------------------
+# Raspberry Pi 5 (Linux) – safe tracking block
+# -------------------------
+doubleclick.net
+googletagmanager.com
+googletagservices.com
+adservice.google.com
+adservice.google.pl
+scorecardresearch.com
+quantserve.com
+moatads.com
+taboola.com
+outbrain.com
+
+# -------------------------
+# Generic Tracking / Ads
+# -------------------------
+doubleclick.net
+googletagmanager.com
+googletagservices.com
+adservice.google.com
+adservice.google.pl
+scorecardresearch.com
+quantserve.com
+moatads.com
+taboola.com
+outbrain.com
