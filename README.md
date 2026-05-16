@@ -2,8 +2,8 @@
 
 Niestandardowa lista domen do Pi-hole, przygotowana pod moje urządzenia:
 
-- TCL Smart TV (Android TV / Google TV)
-- Samsung S20 (Android)
+- Smart TV (TCL / Android TV / Google TV)
+- Samsung (Android)
 - Steam Deck (SteamOS)
 - Raspberry Pi 5 (Linux)
 - Ogólne blokowanie reklam i trackerów
