@@ -78,11 +78,7 @@ gpm.samsungqbe.com
 # -------------------------
 # Steam Deck (SteamOS telemetry)
 # -------------------------
-# api.steampowered.com
-# store.steampowered.com
-# steamcommunity.com
 steamcommunity-a.akamaihd.net
-
 steamcdn-a.akamaihd.net
 steamcdn.cloudflare.steamstatic.com
 steamstat.us
